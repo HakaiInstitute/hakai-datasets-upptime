@@ -1,6 +1,9 @@
 owner: n-a-t-e # Your GitHub organization or username, where this repository lives
 repo: hakai-datasets-upptime # The name of this repository
-
+expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 sites: # List of endpoints to track
   - name: HakaiADCPTimeSeriesProfileProvisional
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
