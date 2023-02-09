@@ -1,82 +1,139 @@
-owner: n-a-t-e # Your GitHub organization or username, where this repository lives
-repo: hakai-datasets-upptime # The name of this repository
-expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+owner: hakai-it # GitHub username
 sites: # List of endpoints to track
   - name: HakaiADCPTimeSeriesProfileProvisional
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiBaynesSoundBoL5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiBottleCompleteProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBottleCompleteProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiBottleReducedProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBottleReducedProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiCalvertCP1TideGauge
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiChlorophyllSampleProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiChlorophyllSampleResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiColumbiaFerryResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiKCBuoy1hour
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiKCBuoyResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiKetchikanBoL5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiKetchikanBoLResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiKodiakBoL5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiMooredTimeSeriesResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiNearShoreStandAloneRaw
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiNearShoreStandAloneRaw.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiNutrientSampleResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiNutrientSampleResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiPruthDockProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiPruthMooringProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiQU5MMooringProvisional
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiQuadraBoL5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiQuadraBoLResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiQuadraLimpet5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiQuadraWeather5min
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiSeaspanRoyalNMEA
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSeaspanRoyalNMEA.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiSeaspanRoyalSuperCO2Provisional_merged
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSeaspanRoyalSuperCO2Provisional_merged.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiSeaspanRoyalSuperCO2_OriginalFiles
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSeaspanRoyalSuperCO2_OriginalFiles.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiSentinelTempRaw
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSentinelTempRaw.htmlTable?time&time<=now-1week&distinct()
   - name: HakaiSewardBoL5min
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiQuadraBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiBaynesSoundBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiKetchikanBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: HakaiSitkaBoL5min
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time<=now-1week&distinct()
-  - name: HakaiSitkaBoLResearch
-    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiADCPTimeSeriesProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: HakaiWaterPropertiesInstrumentProfileProvisional
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiMooredTimeSeriesResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiCalvertCP1TideGauge
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiQuadraBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiKodiakBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiKetchikanBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiKCBuoyResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiPruthDockProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiQuadraWeather5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiQU5MMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: HakaiWaterPropertiesInstrumentProfileResearch
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?time&time<=now-1week&distinct()
-  - name: algae_explorer_Regrid_S3L3_8D
-    url: https://catalogue.hakai.org/erddap/tabledap/algae_explorer_Regrid_S3L3_8D.htmlTable?time&time<=now-1week&distinct()
-  - name: algae_explorer_S3L3_8D
-    url: https://catalogue.hakai.org/erddap/tabledap/algae_explorer_S3L3_8D.htmlTable?time&time<=now-1week&distinct()
-  - name: algae_explorer_l3m
-    url: https://catalogue.hakai.org/erddap/tabledap/algae_explorer_l3m.htmlTable?time&time<=now-1week&distinct()
-  - name: algae_explorer_polymer_output
-    url: https://catalogue.hakai.org/erddap/tabledap/algae_explorer_polymer_output.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiKCBuoy1hour
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiSitkaBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiQuadraLimpet5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiColumbiaFerryResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: HakaiPruthMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -94,13 +151,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: ocean
   metaTags:
-  - name: "color-scheme"
-    content: "dark light"
-  - name: "robots"
-    content: "noindex"
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
-
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -110,4 +166,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "* */12 * * *"
-
