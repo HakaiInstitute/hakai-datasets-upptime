@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiSeaspanRoyalSuperCO2_OriginalFiles.htmlTable?time&time<=now-1week&distinct()
 status: down
 code: 404
-responseTime: 1038
-lastUpdated: 2023-02-09T20:44:48.337Z
+responseTime: 1055
+lastUpdated: 2023-02-09T20:58:11.958Z
 startTime: Thu Feb 09 2023 20:44:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
