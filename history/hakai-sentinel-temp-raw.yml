@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiSentinelTempRaw.htmlTable?time&time<=now-1week&distinct()
 status: down
 code: 404
-responseTime: 1054
-lastUpdated: 2023-02-09T20:58:15.382Z
+responseTime: 1044
+lastUpdated: 2023-02-09T23:07:39.722Z
 startTime: Thu Feb 09 2023 20:44:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
