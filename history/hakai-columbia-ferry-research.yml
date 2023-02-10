@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 3070
-lastUpdated: 2023-02-09T23:37:25.810Z
+responseTime: 4104
+lastUpdated: 2023-02-10T23:07:09.734Z
 startTime: Thu Feb 09 2023 20:43:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
