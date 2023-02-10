@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-seward-bo-l5min",
     "status": "up",
-    "uptime": "0.95%",
-    "uptimeDay": "0.95%",
-    "uptimeWeek": "0.95%",
-    "uptimeMonth": "0.95%",
-    "uptimeYear": "0.95%",
+    "uptime": "18.36%",
+    "uptimeDay": "18.36%",
+    "uptimeWeek": "18.36%",
+    "uptimeMonth": "18.36%",
+    "uptimeYear": "18.36%",
     "time": 2079,
     "timeDay": 2079,
     "timeWeek": 2079,
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-baynes-sound-bo-l5min",
     "status": "up",
-    "uptime": "0.84%",
-    "uptimeDay": "0.84%",
-    "uptimeWeek": "0.84%",
-    "uptimeMonth": "0.84%",
-    "uptimeYear": "0.84%",
+    "uptime": "18.09%",
+    "uptimeDay": "18.09%",
+    "uptimeWeek": "18.09%",
+    "uptimeMonth": "18.09%",
+    "uptimeYear": "18.09%",
     "time": 2079,
     "timeDay": 2079,
     "timeWeek": 2079,
@@ -236,7 +236,8 @@
     "timeMonth": 2066,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2023-02-09": 347
+      "2023-02-09": 369,
+      "2023-02-10": 15
     }
   },
   {
