@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 13558
-lastUpdated: 2023-02-17T23:07:00.785Z
+responseTime: 15050
+lastUpdated: 2023-02-18T23:06:54.313Z
 startTime: Thu Feb 09 2023 20:44:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
