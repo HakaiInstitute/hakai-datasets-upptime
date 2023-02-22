@@ -1,4 +1,5 @@
 owner: hakai-it # GitHub username
+repo: hakai-datasets-upptime
 sites: # List of endpoints to track
   - name: HakaiADCPTimeSeriesProfileProvisional
     url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
