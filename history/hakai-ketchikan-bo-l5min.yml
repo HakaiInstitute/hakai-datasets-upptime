@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time<=now-1week&distinct()
-status: up
-code: 404
-responseTime: 2073
-lastUpdated: 2023-03-13T23:06:41.956Z
+status: down
+code: 500
+responseTime: 2232
+lastUpdated: 2023-03-14T12:48:47.539Z
 startTime: Thu Feb 09 2023 20:43:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
