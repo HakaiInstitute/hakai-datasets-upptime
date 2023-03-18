@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 281
-lastUpdated: 2023-03-18T13:08:23.393Z
+responseTime: 175
+lastUpdated: 2023-03-18T23:07:27.244Z
 startTime: Thu Feb 09 2023 20:44:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
