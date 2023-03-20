@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 267
-lastUpdated: 2023-03-19T23:06:24.547Z
+responseTime: 168
+lastUpdated: 2023-03-20T23:06:48.394Z
 startTime: Thu Feb 09 2023 20:43:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
