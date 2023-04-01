@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 4718
-lastUpdated: 2023-04-01T23:05:49.681Z
+responseTime: 3938
+lastUpdated: 2023-04-01T23:06:06.791Z
 startTime: Thu Feb 09 2023 20:42:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
