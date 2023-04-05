@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 119
-lastUpdated: 2023-04-04T23:06:36.928Z
+responseTime: 103
+lastUpdated: 2023-04-05T23:06:16.992Z
 startTime: Thu Feb 09 2023 20:43:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
