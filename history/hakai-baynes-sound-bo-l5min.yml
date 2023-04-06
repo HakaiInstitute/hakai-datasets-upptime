@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 404
-responseTime: 2075
-lastUpdated: 2023-04-05T23:05:54.785Z
+responseTime: 2103
+lastUpdated: 2023-04-06T23:06:02.320Z
 startTime: Thu Feb 09 2023 20:42:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
