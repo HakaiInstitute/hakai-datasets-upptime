@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 6320
-lastUpdated: 2023-04-06T23:05:59.879Z
+responseTime: 6258
+lastUpdated: 2023-04-07T23:05:51.920Z
 startTime: Thu Feb 09 2023 20:44:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
