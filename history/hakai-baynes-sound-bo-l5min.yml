@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
-status: down
-code: 500
-responseTime: 2027
-lastUpdated: 2023-04-11T12:39:55.897Z
+status: up
+code: 404
+responseTime: 2031
+lastUpdated: 2023-04-11T23:06:15.289Z
 startTime: Thu Feb 09 2023 20:42:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
