@@ -23,7 +23,7 @@ jobs:
           pip install pandas
 
       - name: Run ERDDAP checks update
-        run: python generate-sites-yaml-block.yaml '${secrets.ERDDAP_SERVERS}'
+        run: python generate-sites-yaml-block.py '${secrets.ERDDAP_SERVERS}'
 
       - name: push changes
         uses: stefanzweifel/git-auto-commit-action@v4
