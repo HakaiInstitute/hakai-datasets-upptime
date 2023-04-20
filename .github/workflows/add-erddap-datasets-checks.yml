@@ -1,7 +1,10 @@
 name: Add New ERDDAP Datasets Checks
 on:
   schedule:
-    - cron: '* */12 * * *'
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - master
 jobs:
   release:
     name: Add New ERDDAP Datasets Checks
