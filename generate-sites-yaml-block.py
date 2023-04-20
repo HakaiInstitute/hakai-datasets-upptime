@@ -3,7 +3,9 @@ import argparse
 import yaml
 from pathlib import Path
 import re
+import logging
 
+logger = logging.getLogger()
 expected_status_code = [200, 201, 404]
 
 # Load active config
@@ -28,6 +30,7 @@ def get_erddap_datasets_upptime_checks(erddap_server, realtime_buffer="1day"):
 
     # Retrieve list of datasets
     url = f'{erddap_server}/tabledap/allDatasets.csv?&datasetID!="allDatasets"&accessible="public"'
+    logger.info("Get datasetID list from %s",url)
     sites = pd.read_csv(url, skiprows=[1])
     site_checks = []
     for _, row in sites.dropna(subset=["tabledap"]).iterrows():
