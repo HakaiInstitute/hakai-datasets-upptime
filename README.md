@@ -1,4 +1,5 @@
 # [📈 Live Status](https://n-a-t-e.github.io/hakai-datasets-upptime): <!--live status--> **🟧 Partial outage**
+[![Add New ERDDAP Datasets Checks](https://github.com/HakaiInstitute/hakai-datasets-upptime/actions/workflows/add-erddap-datasets-checks.yml/badge.svg?branch=master)](https://github.com/HakaiInstitute/hakai-datasets-upptime/actions/workflows/add-erddap-datasets-checks.yml)
 
 This repository contains the open-source uptime monitor and status page for [Nate](https://n-a-t-e.github.io/hakai-datasets-upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
