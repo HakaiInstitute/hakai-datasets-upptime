@@ -1,324 +1,187 @@
 owner: hakai-it
 repo: hakai-datasets-upptime
 sites:
-- name: HakaiADCPTimeSeriesProfileProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiSewardBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiQuadraBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiBaynesSoundBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiKetchikanBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiSitkaBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiADCPTimeSeriesProfileProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiWaterPropertiesInstrumentProfileProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiMooredTimeSeriesResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiCalvertCP1TideGauge
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiQuadraBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiKodiakBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiKetchikanBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiKCBuoyResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiPruthDockProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiQuadraWeather5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiQU5MMooringProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiWaterPropertiesInstrumentProfileResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiKCBuoy1hour
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiSitkaBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiQuadraLimpet5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiColumbiaFerryResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: HakaiPruthMooringProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?time&time<=now-1week&distinct()
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour'
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time>=now-1day
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?&time>now-1minute
-- expectedStatusCodes:
-  - 200
-  - 201
-  - 404
-  name: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge
-  url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?&time>now-1minute
+  - name: HakaiADCPTimeSeriesProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiSewardBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiQuadraBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiBaynesSoundBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiKetchikanBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiSitkaBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiADCPTimeSeriesProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiWaterPropertiesInstrumentProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiMooredTimeSeriesResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiCalvertCP1TideGauge
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiQuadraBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiKodiakBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiKetchikanBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiKCBuoyResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiPruthDockProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiQuadraWeather5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiQU5MMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiWaterPropertiesInstrumentProfileResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiKCBuoy1hour
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiSitkaBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiQuadraLimpet5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiColumbiaFerryResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: HakaiPruthMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?time&time<=now-1week&distinct()
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200]
+  - name: 'Real-Time: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour'
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?time&time>=now-1day
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
+  - name: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge
+    url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?&time>now-1minute
+    expectedStatusCodes: [200, 201, 404]
 status-website:
   baseUrl: /hakai-datasets-uptime
-  introMessage: "This is a sample status page which uses **real-time** data from our\
+  introMessage:
+    "This is a sample status page which uses **real-time** data from our\
     \ [GitHub repository](https://github.com/hakaiInstitute/hakai-datasets-upptime).\
     \ No server required \u2014 just GitHub Actions, Issues, and Pages. [**Get your\
     \ own for free**](https://github.com/upptime/upptime)"
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered
+  introTitle:
+    '**Upptime** is the open-source uptime monitor and status page, powered
     entirely by GitHub.'
   logoUrl: https://hakai.org/wp-content/themes/HakaiInstitute/images/logo.svg
   metaTags:
-  - content: dark light
-    name: color-scheme
-  - content: noindex
-    name: robots
+    - content: dark light
+    - name: color-scheme
+    - content: noindex
+    - name: robots
   name: Hakai ERDDAP Upptime
   navbar:
-  - href: /
-    title: Status
-  - href: https://github.com/$OWNER/$REPO
-    title: GitHub
+    - href: /
+      title: Status
+    - href: https://github.com/$OWNER/$REPO
+      title: GitHub
   theme: ocean
 workflowSchedule:
   graphs: 0 0 * * *
