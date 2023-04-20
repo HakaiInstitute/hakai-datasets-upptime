@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?time&time<=now-1week&distinct()
 status: up
 code: 200
-responseTime: 2040
-lastUpdated: 2023-04-20T16:39:55.881Z
+responseTime: 1876
+lastUpdated: 2023-04-20T17:29:10.513Z
 startTime: Thu Feb 09 2023 20:43:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
