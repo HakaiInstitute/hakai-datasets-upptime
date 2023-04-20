@@ -28,7 +28,7 @@ jobs:
       - name: Run ERDDAP checks update
         env:
           ERDDAP_SERVERS: ${{secrets.ERDDAP_SERVERS}}
-        run: python generate-sites-yaml-block.py $ERDDAP_SERVERS}
+        run: python generate-sites-yaml-block.py $ERDDAP_SERVERS
 
       - name: push changes
         uses: stefanzweifel/git-auto-commit-action@v4
