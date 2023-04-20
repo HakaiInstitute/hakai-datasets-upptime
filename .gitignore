@@ -1,0 +1,4 @@
+.vscode/**
+__pycache__/generate-erddap-datasets-checks.cpython-39.pyc
+*.pyc
+.DS_Store
