@@ -186,11 +186,4 @@ status-website:
   - href: https://github.com/$OWNER/$REPO
     title: GitHub
   theme: ocean
-workflowSchedule:
-  graphs: 0 0 * * *
-  responseTime: 0 23 * * *
-  staticSite: 0 1 * * *
-  summary: 0 0 * * *
-  updateTemplate: 0 0 * * *
-  updates: 0 3 * * *
-  uptime: '* */12 * * *'
+
