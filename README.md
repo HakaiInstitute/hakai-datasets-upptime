@@ -2,7 +2,7 @@
 
 [![Add New ERDDAP Datasets Checks](https://github.com/HakaiInstitute/hakai-datasets-upptime/actions/workflows/add-erddap-datasets-checks.yml/badge.svg?branch=master)](https://github.com/HakaiInstitute/hakai-datasets-upptime/actions/workflows/add-erddap-datasets-checks.yml)
 
-This repository contains the open-source uptime monitor and status page for [Nate](https://hakaiinstitute.github.io/hakai-datasets-upptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for the [Hakai Institute](https://hakaiinstitute.github.io/hakai-datasets-upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/hakaiinstitute/hakai-datasets-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/hakaiinstitute/hakai-datasets-upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/hakaiinstitute/hakai-datasets-upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/hakaiinstitute/hakai-datasets-upptime/actions?query=workflow%3A%22Response+Time+CI%22)
