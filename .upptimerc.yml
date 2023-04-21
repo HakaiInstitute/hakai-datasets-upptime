@@ -166,7 +166,7 @@ sites:
   name: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge
   url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?&time>now-1minute
 status-website:
-  baseUrl: /hakai-datasets-uptime
+  baseUrl: /hakai-datasets-upptime
   introMessage: "This is a sample status page which uses **real-time** data from our\
     \ [GitHub repository](https://github.com/hakaiInstitute/hakai-datasets-upptime).\
     \ No server required \u2014 just GitHub Actions, Issues, and Pages. [**Get your\
