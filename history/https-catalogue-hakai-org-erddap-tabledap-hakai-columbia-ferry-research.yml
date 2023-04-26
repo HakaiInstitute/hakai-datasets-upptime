@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiColumbiaFerryResearch.htmlTable?&time>now-1minute
-status: up
-code: 404
-responseTime: 1072
-lastUpdated: 2023-04-26T15:17:26.907Z
+status: down
+code: 502
+responseTime: 37
+lastUpdated: 2023-04-26T15:44:30.442Z
 startTime: Thu Apr 20 2023 16:42:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
