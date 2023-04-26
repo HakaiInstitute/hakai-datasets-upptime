@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthDockProvisional.htmlTable?&time>now-1minute
-status: down
-code: 503
-responseTime: 211
-lastUpdated: 2023-04-26T15:07:01.471Z
+status: up
+code: 404
+responseTime: 1070
+lastUpdated: 2023-04-26T15:16:47.525Z
 startTime: Thu Apr 20 2023 16:41:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
