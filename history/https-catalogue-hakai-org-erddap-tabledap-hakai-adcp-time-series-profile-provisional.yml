@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiADCPTimeSeriesProfileProvisional.htmlTable?&time>now-1minute
-status: up
-code: 404
-responseTime: 1434
-lastUpdated: 2023-04-26T15:16:28.014Z
+status: down
+code: 503
+responseTime: 282
+lastUpdated: 2023-04-26T19:12:20.526Z
 startTime: Thu Apr 20 2023 16:40:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
