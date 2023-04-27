@@ -29,37 +29,42 @@ def get_erddap_datasets_upptime_checks(erddap_server, realtime_buffer="1day"):
         return f"{dataset_url}.htmlTable?time&time<=now-1week&distinct()"
 
     # Retrieve list of datasets
+    server_name = re.sub("https*:\/\/|/erddap", "", erddap_server)
     url = f'{erddap_server}/tabledap/allDatasets.csv?&datasetID!="allDatasets"&accessible="public"'
-    logger.info("Get datasetID list from %s",url)
+    logger.info("Get datasetID list from %s", url)
     sites = pd.read_csv(url, skiprows=[1])
     site_checks = []
     for _, row in sites.dropna(subset=["tabledap"]).iterrows():
         # regular check that looks at all variables
         site_checks += [
             dict(
-                name=row["tabledap"],
-                url=f'{row["tabledap"]}.htmlTable?&time>now-1minute',
+                name=f"{server_name} - {row['datasetID']}: Data Access Form",
+                url=f"{row['tabledap']}.htm",
+            ),
+            dict(
+                name=f"{server_name} - {row['datasetID']}: Download test",
+                url=f"{row['tabledap']}.htmlTable?&time>now-1minute",
                 expectedStatusCodes=[200, 201, 404],
-            )
+            ),
         ]
 
         # realtime check if data exist within given time buffer
         if re.search(r"real[-\s]*time", row["title"], re.IGNORECASE):
             site_checks += [
                 dict(
-                    name=f"Real-Time: {row['tabledap']}",
+                    name=f"{server_name} - {row['datasetID']}: Real-time now-{realtime_buffer}",
                     url=f"{row['tabledap']}.htmlTable?time&time>=now-{realtime_buffer}",
                     expectedStatusCodes=[200],
                 )
             ]
-            
+
     return site_checks
 
 
 def update_upptimerc(config_path, erddap_server="", realtime_buffer="1day"):
 
     config = load_upptimerc(config_path)
-
+    
     site_check_names = [site["name"] for site in config["sites"]]
 
     # Retrieve list of erddap tests
