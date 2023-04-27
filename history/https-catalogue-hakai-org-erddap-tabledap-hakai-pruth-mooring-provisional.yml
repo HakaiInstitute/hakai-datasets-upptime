@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.htmlTable?&time>now-1minute
-status: down
-code: 500
-responseTime: 2239
-lastUpdated: 2023-04-27T12:39:02.388Z
+status: up
+code: 404
+responseTime: 2114
+lastUpdated: 2023-04-27T13:08:54.614Z
 startTime: Thu Apr 20 2023 16:41:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
