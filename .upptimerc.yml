@@ -165,6 +165,84 @@ sites:
   - 404
   name: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge
   url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiNearShoreStandAloneRaw
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiNearShoreStandAloneRaw.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiNutrientSampleResearch
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiNutrientSampleResearch.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiSentinelTempRaw
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiSentinelTempRaw.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWatershedsStreamStationsProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWatershedsStreamStationsProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWatershedsStreamStationsResearch
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWatershedsStreamStationsResearch.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWeatherStationsProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWeatherStationsProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/HakaiWeatherStationsResearch
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiWeatherStationsResearch.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/NatureTrustWaterPropertiesVerticalProfilesProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/NatureTrustWaterPropertiesVerticalProfilesProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/ParksCanadaWaterPropertiesVerticalProfilesProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/ParksCanadaWaterPropertiesVerticalProfilesProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/SkeenaFisheriesWaterPropertiesVerticalProfilesProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/SkeenaFisheriesWaterPropertiesVerticalProfilesProvisional.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: https://catalogue.hakai.org/erddap/tabledap/UWashingtonWaterPropertiesVerticalProfilesProvisional
+  url: https://catalogue.hakai.org/erddap/tabledap/UWashingtonWaterPropertiesVerticalProfilesProvisional.htmlTable?&time>now-1minute
 status-website:
   baseUrl: /hakai-datasets-upptime
   introMessage: "This is a sample status page which uses **real-time** data from our\
@@ -186,4 +264,3 @@ status-website:
   - href: https://github.com/$OWNER/$REPO
     title: GitHub
   theme: ocean
-
