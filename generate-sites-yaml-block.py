@@ -39,7 +39,7 @@ def get_erddap_datasets_upptime_checks(erddap_server, realtime_buffer="1day"):
         site_checks += [
             dict(
                 name=f"{server_name} - {row['datasetID']}: Data Access Form",
-                url=f"{row['tabledap']}.htm",
+                url=f"{row['tabledap']}.html",
             ),
             dict(
                 name=f"{server_name} - {row['datasetID']}: Download test",
