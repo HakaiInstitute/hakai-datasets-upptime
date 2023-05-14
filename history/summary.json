@@ -94,17 +94,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-provisional-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3028,
-    "timeDay": 2644,
-    "timeWeek": 3674,
-    "timeMonth": 3028,
-    "timeYear": 3028,
+    "time": 3073,
+    "timeDay": 3372,
+    "timeWeek": 3717,
+    "timeMonth": 3073,
+    "timeYear": 3073,
     "dailyMinutesDown": {}
   },
   {
@@ -130,17 +130,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-research-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3059,
-    "timeDay": 2589,
-    "timeWeek": 3186,
-    "timeMonth": 3059,
-    "timeYear": 3059,
+    "time": 3380,
+    "timeDay": 6518,
+    "timeWeek": 3912,
+    "timeMonth": 3380,
+    "timeYear": 3380,
     "dailyMinutesDown": {}
   },
   {
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2662,
     "timeDay": 2063,
-    "timeWeek": 2072,
+    "timeWeek": 2070,
     "timeMonth": 2662,
     "timeYear": 2662,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 2074,
     "timeDay": 2061,
-    "timeWeek": 2062,
+    "timeWeek": 2061,
     "timeMonth": 2074,
     "timeYear": 2074,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 2090,
     "timeDay": 2080,
-    "timeWeek": 2085,
+    "timeWeek": 2083,
     "timeMonth": 2090,
     "timeYear": 2090,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4917,
     "timeDay": 5202,
-    "timeWeek": 5011,
+    "timeWeek": 4936,
     "timeMonth": 4917,
     "timeYear": 4917,
     "dailyMinutesDown": {}
@@ -480,7 +480,7 @@
     "uptimeYear": "100.00%",
     "time": 2077,
     "timeDay": 2060,
-    "timeWeek": 2066,
+    "timeWeek": 2065,
     "timeMonth": 2077,
     "timeYear": 2077,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2068,
     "timeDay": 2055,
-    "timeWeek": 2060,
+    "timeWeek": 2059,
     "timeMonth": 2068,
     "timeYear": 2068,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 747,
-    "timeWeek": 698,
+    "timeWeek": 727,
     "timeMonth": 709,
     "timeYear": 709,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 755,
-    "timeWeek": 697,
+    "timeWeek": 728,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {}
@@ -642,7 +642,7 @@
     "uptimeYear": "100.00%",
     "time": 2063,
     "timeDay": 2049,
-    "timeWeek": 2058,
+    "timeWeek": 2057,
     "timeMonth": 2063,
     "timeYear": 2063,
     "dailyMinutesDown": {}
@@ -696,7 +696,7 @@
     "uptimeYear": "100.00%",
     "time": 2068,
     "timeDay": 2053,
-    "timeWeek": 2060,
+    "timeWeek": 2059,
     "timeMonth": 2068,
     "timeYear": 2068,
     "dailyMinutesDown": {}
@@ -750,7 +750,7 @@
     "uptimeYear": "100.00%",
     "time": 2065,
     "timeDay": 2072,
-    "timeWeek": 2063,
+    "timeWeek": 2062,
     "timeMonth": 2065,
     "timeYear": 2065,
     "dailyMinutesDown": {}
@@ -768,7 +768,7 @@
     "uptimeYear": "100.00%",
     "time": 791,
     "timeDay": 755,
-    "timeWeek": 656,
+    "timeWeek": 688,
     "timeMonth": 791,
     "timeYear": 791,
     "dailyMinutesDown": {}
@@ -804,7 +804,7 @@
     "uptimeYear": "100.00%",
     "time": 2069,
     "timeDay": 2061,
-    "timeWeek": 2066,
+    "timeWeek": 2065,
     "timeMonth": 2069,
     "timeYear": 2069,
     "dailyMinutesDown": {}
@@ -822,7 +822,7 @@
     "uptimeYear": "100.00%",
     "time": 983,
     "timeDay": 2061,
-    "timeWeek": 1862,
+    "timeWeek": 2082,
     "timeMonth": 983,
     "timeYear": 983,
     "dailyMinutesDown": {}
