@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute
-status: up
-code: 404
-responseTime: 2636
-lastUpdated: 2023-05-20T23:05:49.569Z
+status: down
+code: 500
+responseTime: 17022
+lastUpdated: 2023-05-21T13:10:11.831Z
 startTime: Thu Apr 27 2023 21:11:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
