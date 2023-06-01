@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?&time>now-1minute
-status: up
-code: 404
-responseTime: 2114
-lastUpdated: 2023-05-31T23:06:29.472Z
+status: down
+code: 500
+responseTime: 10899
+lastUpdated: 2023-06-01T12:39:09.131Z
 startTime: Thu Apr 27 2023 21:11:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
