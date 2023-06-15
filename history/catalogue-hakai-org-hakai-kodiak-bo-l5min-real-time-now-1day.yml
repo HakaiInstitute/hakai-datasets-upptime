@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time>=now-1day
-status: down
-code: 500
-responseTime: 2245
-lastUpdated: 2023-06-15T12:48:38.422Z
+status: up
+code: 200
+responseTime: 94
+lastUpdated: 2023-06-15T13:19:30.062Z
 startTime: Thu Apr 27 2023 21:12:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
