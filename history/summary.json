@@ -283,7 +283,7 @@
     "time": 2255,
     "timeDay": 2085,
     "timeWeek": 2087,
-    "timeMonth": 2168,
+    "timeMonth": 2169,
     "timeYear": 2255,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 2124,
     "timeDay": 2064,
     "timeWeek": 2122,
-    "timeMonth": 2091,
+    "timeMonth": 2092,
     "timeYear": 2124,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2108,
     "timeDay": 2098,
     "timeWeek": 2097,
-    "timeMonth": 2109,
+    "timeMonth": 2110,
     "timeYear": 2108,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4933,
     "timeDay": 4741,
     "timeWeek": 4802,
-    "timeMonth": 4883,
+    "timeMonth": 4862,
     "timeYear": 4933,
     "dailyMinutesDown": {}
   },
@@ -481,7 +481,7 @@
     "time": 2081,
     "timeDay": 2050,
     "timeWeek": 2066,
-    "timeMonth": 2082,
+    "timeMonth": 2083,
     "timeYear": 2081,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 765,
     "timeDay": 761,
     "timeWeek": 772,
-    "timeMonth": 772,
+    "timeMonth": 781,
     "timeYear": 765,
     "dailyMinutesDown": {}
   },
@@ -598,17 +598,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time>=now-1day",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-kodiak-bo-l5min-real-time-now-1day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 812,
-    "timeWeek": 792,
-    "timeMonth": 781,
-    "timeYear": 805,
+    "time": 812,
+    "timeDay": 1139,
+    "timeWeek": 852,
+    "timeMonth": 804,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -697,7 +697,7 @@
     "time": 2077,
     "timeDay": 2042,
     "timeWeek": 2078,
-    "timeMonth": 2079,
+    "timeMonth": 2080,
     "timeYear": 2077,
     "dailyMinutesDown": {}
   },
@@ -769,7 +769,7 @@
     "time": 785,
     "timeDay": 758,
     "timeWeek": 922,
-    "timeMonth": 795,
+    "timeMonth": 804,
     "timeYear": 785,
     "dailyMinutesDown": {}
   },
