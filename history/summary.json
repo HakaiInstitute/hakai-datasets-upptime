@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2283,
     "timeDay": 2061,
-    "timeWeek": 2693,
+    "timeWeek": 2725,
     "timeMonth": 2316,
     "timeYear": 2283,
     "dailyMinutesDown": {}
@@ -310,15 +310,15 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-quadra-limpet5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2115,
-    "timeDay": 2044,
-    "timeWeek": 2066,
+    "timeDay": 2051,
+    "timeWeek": 2067,
     "timeMonth": 2086,
     "timeYear": 2115,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 2106,
     "timeDay": 2079,
-    "timeWeek": 2092,
+    "timeWeek": 2093,
     "timeMonth": 2100,
     "timeYear": 2106,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4900,
     "timeDay": 4721,
-    "timeWeek": 4628,
+    "timeWeek": 4752,
     "timeMonth": 4762,
     "timeYear": 4900,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2073,
     "timeDay": 2055,
-    "timeWeek": 2068,
+    "timeWeek": 2070,
     "timeMonth": 2073,
     "timeYear": 2073,
     "dailyMinutesDown": {}
@@ -588,7 +588,7 @@
     "uptimeYear": "100.00%",
     "time": 2074,
     "timeDay": 2072,
-    "timeWeek": 2074,
+    "timeWeek": 2075,
     "timeMonth": 2074,
     "timeYear": 2074,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 750,
-    "timeWeek": 841,
+    "timeWeek": 783,
     "timeMonth": 809,
     "timeYear": 807,
     "dailyMinutesDown": {}
@@ -804,7 +804,7 @@
     "uptimeYear": "100.00%",
     "time": 2079,
     "timeDay": 2051,
-    "timeWeek": 2075,
+    "timeWeek": 2077,
     "timeMonth": 2080,
     "timeYear": 2079,
     "dailyMinutesDown": {}
@@ -822,7 +822,7 @@
     "uptimeYear": "100.00%",
     "time": 1051,
     "timeDay": 773,
-    "timeWeek": 818,
+    "timeWeek": 759,
     "timeMonth": 779,
     "timeYear": 1051,
     "dailyMinutesDown": {}
