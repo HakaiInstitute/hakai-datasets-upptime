@@ -283,7 +283,7 @@
     "time": 2344,
     "timeDay": 9147,
     "timeWeek": 3095,
-    "timeMonth": 2457,
+    "timeMonth": 2460,
     "timeYear": 2344,
     "dailyMinutesDown": {}
   },
@@ -310,16 +310,16 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraLimpet5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-quadra-limpet5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2112,
-    "timeDay": 2050,
+    "timeDay": 2064,
     "timeWeek": 2078,
-    "timeMonth": 2083,
+    "timeMonth": 2084,
     "timeYear": 2112,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2106,
     "timeDay": 2069,
     "timeWeek": 2091,
-    "timeMonth": 2099,
+    "timeMonth": 2100,
     "timeYear": 2106,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4891,
     "timeDay": 4715,
     "timeWeek": 4805,
-    "timeMonth": 4756,
+    "timeMonth": 4785,
     "timeYear": 4891,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 2072,
     "timeDay": 2062,
     "timeWeek": 2066,
-    "timeMonth": 2067,
+    "timeMonth": 2068,
     "timeYear": 2072,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 878,
     "timeDay": 2055,
     "timeWeek": 1525,
-    "timeMonth": 1232,
+    "timeMonth": 1218,
     "timeYear": 878,
     "dailyMinutesDown": {}
   },
@@ -804,7 +804,7 @@
     "uptimeYear": "100.00%",
     "time": 2079,
     "timeDay": 2050,
-    "timeWeek": 2074,
+    "timeWeek": 2076,
     "timeMonth": 2078,
     "timeYear": 2079,
     "dailyMinutesDown": {}
@@ -822,7 +822,7 @@
     "uptimeYear": "100.00%",
     "time": 1018,
     "timeDay": 749,
-    "timeWeek": 829,
+    "timeWeek": 770,
     "timeMonth": 769,
     "timeYear": 1018,
     "dailyMinutesDown": {}
