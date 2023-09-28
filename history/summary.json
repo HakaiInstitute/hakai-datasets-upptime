@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2287,
     "timeDay": 2151,
-    "timeWeek": 2090,
+    "timeWeek": 2092,
     "timeMonth": 2300,
     "timeYear": 2287,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 2164,
     "timeDay": 2072,
-    "timeWeek": 3493,
+    "timeWeek": 3565,
     "timeMonth": 2395,
     "timeYear": 2164,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 2102,
     "timeDay": 2110,
-    "timeWeek": 2097,
+    "timeWeek": 2096,
     "timeMonth": 2097,
     "timeYear": 2102,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4865,
     "timeDay": 4680,
-    "timeWeek": 4795,
+    "timeWeek": 4674,
     "timeMonth": 4802,
     "timeYear": 4865,
     "dailyMinutesDown": {}
@@ -588,7 +588,7 @@
     "uptimeYear": "100.00%",
     "time": 2075,
     "timeDay": 2079,
-    "timeWeek": 2070,
+    "timeWeek": 2071,
     "timeMonth": 2082,
     "timeYear": 2075,
     "dailyMinutesDown": {}
@@ -606,7 +606,7 @@
     "uptimeYear": "100.00%",
     "time": 798,
     "timeDay": 781,
-    "timeWeek": 781,
+    "timeWeek": 817,
     "timeMonth": 798,
     "timeYear": 798,
     "dailyMinutesDown": {}
@@ -742,15 +742,15 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-sitka-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2069,
-    "timeDay": 2089,
-    "timeWeek": 2073,
+    "timeDay": 2072,
+    "timeWeek": 2075,
     "timeMonth": 2072,
     "timeYear": 2069,
     "dailyMinutesDown": {}
@@ -769,7 +769,7 @@
     "time": 887,
     "timeDay": 2119,
     "timeWeek": 2095,
-    "timeMonth": 1207,
+    "timeMonth": 1193,
     "timeYear": 887,
     "dailyMinutesDown": {}
   },
