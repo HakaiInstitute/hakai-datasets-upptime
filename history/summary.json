@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2271,
     "timeDay": 2121,
-    "timeWeek": 2091,
+    "timeWeek": 2093,
     "timeMonth": 2195,
     "timeYear": 2271,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 2157,
     "timeDay": 2096,
-    "timeWeek": 2077,
+    "timeWeek": 2080,
     "timeMonth": 2406,
     "timeYear": 2157,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2073,
     "timeDay": 2097,
-    "timeWeek": 2080,
+    "timeWeek": 2082,
     "timeMonth": 2077,
     "timeYear": 2073,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 850,
-    "timeWeek": 871,
+    "timeWeek": 815,
     "timeMonth": 901,
     "timeYear": 1024,
     "dailyMinutesDown": {}
@@ -742,15 +742,15 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-sitka-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2069,
-    "timeDay": 2085,
-    "timeWeek": 2084,
+    "timeDay": 2078,
+    "timeWeek": 2083,
     "timeMonth": 2075,
     "timeYear": 2069,
     "dailyMinutesDown": {}
@@ -769,7 +769,7 @@
     "time": 925,
     "timeDay": 2113,
     "timeWeek": 2093,
-    "timeMonth": 1741,
+    "timeMonth": 1731,
     "timeYear": 925,
     "dailyMinutesDown": {}
   },
