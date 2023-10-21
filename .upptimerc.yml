@@ -1,6 +1,5 @@
 owner: HakaiInstitute
 repo: hakai-datasets-upptime
-user-agent: HakaiInstitute
 sites:
 - name: 'catalogue.hakai.org - HakaiADCPTimeSeriesProfileProvisional: Data Access
     Form'
@@ -215,6 +214,18 @@ sites:
   - 404
   name: 'catalogue.hakai.org - HakaiCalvertCP1TideGauge: Download test'
   url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.htmlTable?&time>now-1minute
+- name: 'catalogue.hakai.org - HakaiBamfieldBoL5min: Data Access Form'
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.html
+- expectedStatusCodes:
+  - 200
+  - 201
+  - 404
+  name: 'catalogue.hakai.org - HakaiBamfieldBoL5min: Download test'
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?&time>now-1minute
+- expectedStatusCodes:
+  - 200
+  name: 'catalogue.hakai.org - HakaiBamfieldBoL5min: Real-time now-1day'
+  url: https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?time&time>=now-1day
 status-website:
   baseUrl: /hakai-datasets-upptime
   introMessage: "This is a sample status page which uses **real-time** data from our\
@@ -236,3 +247,4 @@ status-website:
   - href: https://github.com/$OWNER/$REPO
     title: GitHub
   theme: ocean
+user-agent: HakaiInstitute
