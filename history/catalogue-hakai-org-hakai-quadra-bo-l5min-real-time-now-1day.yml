@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoL5min.htmlTable?time&time>=now-1day
-status: down
-code: 500
-responseTime: 2256
-lastUpdated: 2023-11-02T12:49:55.570Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2023-11-02T13:17:04.961Z
 startTime: 2023-04-27T21:12:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
