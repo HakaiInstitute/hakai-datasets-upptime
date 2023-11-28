@@ -976,17 +976,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?time&time>=now-1day",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-bamfield-bo-l5min-real-time-now-1day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 812,
-    "timeWeek": 952,
-    "timeMonth": 879,
-    "timeYear": 863,
+    "time": 874,
+    "timeDay": 1139,
+    "timeWeek": 1005,
+    "timeMonth": 892,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   }
 ]
