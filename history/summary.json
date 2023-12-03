@@ -283,7 +283,7 @@
     "time": 2364,
     "timeDay": 2102,
     "timeWeek": 3331,
-    "timeMonth": 2810,
+    "timeMonth": 2827,
     "timeYear": 2364,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 2171,
     "timeDay": 2079,
     "timeWeek": 2072,
-    "timeMonth": 2108,
+    "timeMonth": 2109,
     "timeYear": 2171,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2105,
     "timeDay": 2392,
     "timeWeek": 2169,
-    "timeMonth": 2126,
+    "timeMonth": 2127,
     "timeYear": 2105,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4858,
     "timeDay": 4724,
     "timeWeek": 4825,
-    "timeMonth": 4863,
+    "timeMonth": 4874,
     "timeYear": 4858,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 978,
     "timeDay": 813,
     "timeWeek": 778,
-    "timeMonth": 841,
+    "timeMonth": 836,
     "timeYear": 978,
     "dailyMinutesDown": {}
   },
@@ -589,7 +589,7 @@
     "time": 2081,
     "timeDay": 2109,
     "timeWeek": 2074,
-    "timeMonth": 2074,
+    "timeMonth": 2075,
     "timeYear": 2081,
     "dailyMinutesDown": {}
   },
@@ -607,7 +607,7 @@
     "time": 792,
     "timeDay": 857,
     "timeWeek": 778,
-    "timeMonth": 786,
+    "timeMonth": 780,
     "timeYear": 792,
     "dailyMinutesDown": {}
   },
@@ -751,7 +751,7 @@
     "time": 2087,
     "timeDay": 2087,
     "timeWeek": 2059,
-    "timeMonth": 2065,
+    "timeMonth": 2066,
     "timeYear": 2087,
     "dailyMinutesDown": {}
   },
@@ -805,7 +805,7 @@
     "time": 2003,
     "timeDay": 2081,
     "timeWeek": 2091,
-    "timeMonth": 2084,
+    "timeMonth": 2085,
     "timeYear": 2003,
     "dailyMinutesDown": {}
   },
@@ -823,7 +823,7 @@
     "time": 935,
     "timeDay": 753,
     "timeWeek": 958,
-    "timeMonth": 818,
+    "timeMonth": 812,
     "timeYear": 935,
     "dailyMinutesDown": {}
   },
@@ -958,15 +958,15 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-bamfield-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2072,
-    "timeDay": 2088,
-    "timeWeek": 2064,
+    "timeDay": 2073,
+    "timeWeek": 2062,
     "timeMonth": 2069,
     "timeYear": 2072,
     "dailyMinutesDown": {}
@@ -976,17 +976,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?time&time>=now-1day",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-bamfield-bo-l5min-real-time-now-1day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 798,
-    "timeWeek": 964,
-    "timeMonth": 931,
-    "timeYear": 881,
+    "time": 890,
+    "timeDay": 1109,
+    "timeWeek": 963,
+    "timeMonth": 941,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   }
 ]
