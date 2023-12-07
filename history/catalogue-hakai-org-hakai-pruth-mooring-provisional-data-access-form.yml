@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiPruthMooringProvisional.html
-status: up
-code: 200
-responseTime: 32
-lastUpdated: 2023-12-06T23:06:43.632Z
+status: down
+code: 503
+responseTime: 25778
+lastUpdated: 2023-12-07T15:56:49.575Z
 startTime: 2023-04-27T21:11:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
