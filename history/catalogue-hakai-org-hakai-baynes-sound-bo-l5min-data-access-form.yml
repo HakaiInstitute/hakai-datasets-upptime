@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.html
-status: down
-code: 503
-responseTime: 7460
-lastUpdated: 2023-12-07T16:03:27.858Z
+status: up
+code: 200
+responseTime: 107
+lastUpdated: 2023-12-07T18:07:36.212Z
 startTime: 2023-04-27T21:11:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
