@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQU5MMooringProvisional.htmlTable?&time>now-1minute
-status: down
-code: 500
-responseTime: 2053
-lastUpdated: 2023-12-27T13:39:32.233Z
+status: up
+code: 404
+responseTime: 6594
+lastUpdated: 2023-12-27T14:16:01.873Z
 startTime: 2023-04-27T21:11:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
