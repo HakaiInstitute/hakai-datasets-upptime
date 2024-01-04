@@ -94,17 +94,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-provisional-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4011,
-    "timeDay": 3138,
-    "timeWeek": 2835,
-    "timeMonth": 4966,
-    "timeYear": 4011,
+    "time": 4028,
+    "timeDay": 4892,
+    "timeWeek": 3542,
+    "timeMonth": 5067,
+    "timeYear": 4028,
     "dailyMinutesDown": {}
   },
   {
@@ -130,17 +130,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-research-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3586,
-    "timeDay": 6762,
-    "timeWeek": 3838,
-    "timeMonth": 4725,
-    "timeYear": 3586,
+    "time": 3607,
+    "timeDay": 8029,
+    "timeWeek": 4475,
+    "timeMonth": 4850,
+    "timeYear": 3607,
     "dailyMinutesDown": {}
   },
   {
@@ -283,7 +283,7 @@
     "time": 2393,
     "timeDay": 2092,
     "timeWeek": 2084,
-    "timeMonth": 2616,
+    "timeMonth": 2623,
     "timeYear": 2393,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 2175,
     "timeDay": 3921,
     "timeWeek": 2336,
-    "timeMonth": 2213,
+    "timeMonth": 2215,
     "timeYear": 2175,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 2092,
     "timeDay": 2111,
     "timeWeek": 2100,
-    "timeMonth": 1981,
+    "timeMonth": 1980,
     "timeYear": 2092,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4828,
     "timeDay": 4789,
     "timeWeek": 4812,
-    "timeMonth": 4631,
+    "timeMonth": 4609,
     "timeYear": 4828,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 2079,
     "timeDay": 2075,
     "timeWeek": 2071,
-    "timeMonth": 2128,
+    "timeMonth": 2129,
     "timeYear": 2079,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 986,
     "timeDay": 834,
     "timeWeek": 791,
-    "timeMonth": 1028,
+    "timeMonth": 1039,
     "timeYear": 986,
     "dailyMinutesDown": {}
   },
@@ -589,7 +589,7 @@
     "time": 2091,
     "timeDay": 2055,
     "timeWeek": 2061,
-    "timeMonth": 2163,
+    "timeMonth": 2164,
     "timeYear": 2091,
     "dailyMinutesDown": {}
   },
@@ -607,7 +607,7 @@
     "time": 792,
     "timeDay": 738,
     "timeWeek": 762,
-    "timeMonth": 778,
+    "timeMonth": 786,
     "timeYear": 792,
     "dailyMinutesDown": {}
   },
@@ -751,7 +751,7 @@
     "time": 2071,
     "timeDay": 2042,
     "timeWeek": 2055,
-    "timeMonth": 1948,
+    "timeMonth": 1947,
     "timeYear": 2071,
     "dailyMinutesDown": {}
   },
@@ -769,7 +769,7 @@
     "time": 961,
     "timeDay": 729,
     "timeWeek": 749,
-    "timeMonth": 843,
+    "timeMonth": 852,
     "timeYear": 961,
     "dailyMinutesDown": {}
   },
@@ -805,7 +805,7 @@
     "time": 1997,
     "timeDay": 2057,
     "timeWeek": 2073,
-    "timeMonth": 1958,
+    "timeMonth": 1957,
     "timeYear": 1997,
     "dailyMinutesDown": {}
   },
@@ -823,7 +823,7 @@
     "time": 914,
     "timeDay": 730,
     "timeWeek": 953,
-    "timeMonth": 788,
+    "timeMonth": 797,
     "timeYear": 914,
     "dailyMinutesDown": {}
   },
@@ -967,7 +967,7 @@
     "time": 2069,
     "timeDay": 2140,
     "timeWeek": 2073,
-    "timeMonth": 2063,
+    "timeMonth": 2064,
     "timeYear": 2069,
     "dailyMinutesDown": {}
   },
@@ -985,7 +985,7 @@
     "time": 931,
     "timeDay": 2078,
     "timeWeek": 2067,
-    "timeMonth": 1024,
+    "timeMonth": 1040,
     "timeYear": 931,
     "dailyMinutesDown": {}
   }
