@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time>=now-1day
-status: down
-code: 500
-responseTime: 2240
-lastUpdated: 2024-01-06T13:56:36.873Z
+status: up
+code: 200
+responseTime: 72
+lastUpdated: 2024-01-06T14:11:04.073Z
 startTime: 2023-04-27T21:12:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
