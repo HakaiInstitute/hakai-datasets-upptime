@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2388,
     "timeDay": 2060,
-    "timeWeek": 2089,
+    "timeWeek": 2091,
     "timeMonth": 2104,
     "timeYear": 2388,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 2173,
     "timeDay": 2045,
-    "timeWeek": 2323,
+    "timeWeek": 2336,
     "timeMonth": 2215,
     "timeYear": 2173,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 2092,
     "timeDay": 2082,
-    "timeWeek": 2101,
+    "timeWeek": 2102,
     "timeMonth": 1979,
     "timeYear": 2092,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4828,
     "timeDay": 4825,
-    "timeWeek": 4916,
+    "timeWeek": 4845,
     "timeMonth": 4579,
     "timeYear": 4828,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2079,
     "timeDay": 2048,
-    "timeWeek": 2073,
+    "timeWeek": 2075,
     "timeMonth": 2128,
     "timeYear": 2079,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 982,
     "timeDay": 722,
-    "timeWeek": 760,
+    "timeWeek": 794,
     "timeMonth": 778,
     "timeYear": 982,
     "dailyMinutesDown": {}
@@ -588,7 +588,7 @@
     "uptimeYear": "100.00%",
     "time": 2091,
     "timeDay": 2062,
-    "timeWeek": 2091,
+    "timeWeek": 2094,
     "timeMonth": 1955,
     "timeYear": 2091,
     "dailyMinutesDown": {}
@@ -598,17 +598,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?time&time>=now-1day",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-kodiak-bo-l5min-real-time-now-1day",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 802,
-    "timeWeek": 759,
-    "timeMonth": 798,
-    "timeYear": 793,
+    "time": 794,
+    "timeDay": 1120,
+    "timeWeek": 851,
+    "timeMonth": 813,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -750,7 +750,7 @@
     "uptimeYear": "100.00%",
     "time": 2071,
     "timeDay": 2070,
-    "timeWeek": 2068,
+    "timeWeek": 2069,
     "timeMonth": 1947,
     "timeYear": 2071,
     "dailyMinutesDown": {}
@@ -768,7 +768,7 @@
     "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 786,
-    "timeWeek": 761,
+    "timeWeek": 795,
     "timeMonth": 871,
     "timeYear": 958,
     "dailyMinutesDown": {}
@@ -804,7 +804,7 @@
     "uptimeYear": "100.00%",
     "time": 1999,
     "timeDay": 2071,
-    "timeWeek": 2077,
+    "timeWeek": 2079,
     "timeMonth": 1955,
     "timeYear": 1999,
     "dailyMinutesDown": {}
@@ -822,8 +822,8 @@
     "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 807,
-    "timeWeek": 741,
-    "timeMonth": 768,
+    "timeWeek": 773,
+    "timeMonth": 776,
     "timeYear": 911,
     "dailyMinutesDown": {}
   },
@@ -966,7 +966,7 @@
     "uptimeYear": "100.00%",
     "time": 2069,
     "timeDay": 2060,
-    "timeWeek": 2074,
+    "timeWeek": 2076,
     "timeMonth": 1951,
     "timeYear": 2069,
     "dailyMinutesDown": {}
