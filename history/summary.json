@@ -958,7 +958,7 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-bamfield-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -985,7 +985,7 @@
     "time": 965,
     "timeDay": 2079,
     "timeWeek": 2082,
-    "timeMonth": 1284,
+    "timeMonth": 1266,
     "timeYear": 965,
     "dailyMinutesDown": {}
   }
