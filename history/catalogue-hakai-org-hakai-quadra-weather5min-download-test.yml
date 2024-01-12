@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraWeather5min.htmlTable?&time>now-1minute
-status: down
-code: 500
+status: up
+code: 404
 responseTime: 2078
-lastUpdated: 2024-01-12T13:48:24.550Z
+lastUpdated: 2024-01-12T14:20:39.306Z
 startTime: 2023-04-27T21:11:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
