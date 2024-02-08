@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.html
-status: down
-code: 503
-responseTime: 5565
-lastUpdated: 2024-02-08T18:48:51.518Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2024-02-08T18:53:55.902Z
 startTime: 2023-04-27T21:12:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
