@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoyResearch.html
-status: down
-code: 503
-responseTime: 5931
-lastUpdated: 2024-02-09T17:55:28.267Z
+status: up
+code: 200
+responseTime: 211
+lastUpdated: 2024-02-09T17:59:23.422Z
 startTime: 2023-04-27T21:12:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
