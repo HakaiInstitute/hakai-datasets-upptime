@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiCalvertCP1TideGauge.html
-status: up
-code: 200
-responseTime: 8
-lastUpdated: 2024-02-12T23:07:37.544Z
+status: down
+code: 503
+responseTime: 6961
+lastUpdated: 2024-02-13T17:53:44.098Z
 startTime: 2023-04-27T21:13:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
