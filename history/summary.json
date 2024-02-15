@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 530,
     "timeDay": 0,
-    "timeWeek": 1281,
+    "timeWeek": 905,
     "timeMonth": 651,
     "timeYear": 530,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-research-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
