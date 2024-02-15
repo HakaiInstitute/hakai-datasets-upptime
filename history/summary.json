@@ -94,17 +94,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-provisional-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4361,
-    "timeDay": 20665,
-    "timeWeek": 12607,
-    "timeMonth": 7005,
-    "timeYear": 4361,
+    "time": 4410,
+    "timeDay": 21152,
+    "timeWeek": 13262,
+    "timeMonth": 7352,
+    "timeYear": 4410,
     "dailyMinutesDown": {}
   },
   {
@@ -516,7 +516,7 @@
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 0,
-    "timeWeek": 2743,
+    "timeWeek": 76,
     "timeMonth": 805,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2081,
     "timeDay": 2060,
-    "timeWeek": 2198,
+    "timeWeek": 2059,
     "timeMonth": 2095,
     "timeYear": 2081,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 1069,
-    "timeWeek": 1046,
+    "timeWeek": 814,
     "timeMonth": 835,
     "timeYear": 958,
     "dailyMinutesDown": {}
@@ -570,7 +570,7 @@
     "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 0,
-    "timeWeek": 772,
+    "timeWeek": 57,
     "timeMonth": 296,
     "timeYear": 249,
     "dailyMinutesDown": {}
@@ -588,7 +588,7 @@
     "uptimeYear": "100.00%",
     "time": 2093,
     "timeDay": 2055,
-    "timeWeek": 2278,
+    "timeWeek": 2064,
     "timeMonth": 2114,
     "timeYear": 2093,
     "dailyMinutesDown": {}
