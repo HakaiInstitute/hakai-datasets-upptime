@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2402,
     "timeDay": 2089,
-    "timeWeek": 2159,
+    "timeWeek": 2166,
     "timeMonth": 2425,
     "timeYear": 2402,
     "dailyMinutesDown": {}
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 2159,
     "timeDay": 2110,
-    "timeWeek": 2068,
+    "timeWeek": 2069,
     "timeMonth": 2066,
     "timeYear": 2159,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 2092,
     "timeDay": 2100,
-    "timeWeek": 2092,
+    "timeWeek": 2095,
     "timeMonth": 2088,
     "timeYear": 2092,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4852,
     "timeDay": 6198,
-    "timeWeek": 5991,
+    "timeWeek": 6198,
     "timeMonth": 5048,
     "timeYear": 4852,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2081,
     "timeDay": 2098,
-    "timeWeek": 2066,
+    "timeWeek": 2068,
     "timeMonth": 2096,
     "timeYear": 2081,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 956,
     "timeDay": 916,
-    "timeWeek": 838,
+    "timeWeek": 774,
     "timeMonth": 839,
     "timeYear": 956,
     "dailyMinutesDown": {}
@@ -580,15 +580,15 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiKodiakBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-kodiak-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2093,
-    "timeDay": 2091,
-    "timeWeek": 2067,
+    "timeDay": 2075,
+    "timeWeek": 2065,
     "timeMonth": 2115,
     "timeYear": 2093,
     "dailyMinutesDown": {}
@@ -805,7 +805,7 @@
     "time": 2019,
     "timeDay": 2069,
     "timeWeek": 2069,
-    "timeMonth": 2121,
+    "timeMonth": 2122,
     "timeYear": 2019,
     "dailyMinutesDown": {}
   },
@@ -822,8 +822,8 @@
     "uptimeYear": "100.00%",
     "time": 892,
     "timeDay": 1105,
-    "timeWeek": 846,
-    "timeMonth": 817,
+    "timeWeek": 787,
+    "timeMonth": 804,
     "timeYear": 892,
     "dailyMinutesDown": {}
   },
