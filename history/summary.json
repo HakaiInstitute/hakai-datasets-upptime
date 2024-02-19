@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 2400,
     "timeDay": 2138,
-    "timeWeek": 2169,
+    "timeWeek": 2173,
     "timeMonth": 2388,
     "timeYear": 2400,
     "dailyMinutesDown": {}
@@ -317,8 +317,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2158,
-    "timeDay": 2094,
-    "timeWeek": 2072,
+    "timeDay": 2116,
+    "timeWeek": 2070,
     "timeMonth": 2067,
     "timeYear": 2158,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "100.00%",
     "time": 4849,
     "timeDay": 4989,
-    "timeWeek": 5793,
+    "timeWeek": 5976,
     "timeMonth": 5054,
     "timeYear": 4849,
     "dailyMinutesDown": {}
@@ -534,7 +534,7 @@
     "uptimeYear": "100.00%",
     "time": 2081,
     "timeDay": 2102,
-    "timeWeek": 2075,
+    "timeWeek": 2074,
     "timeMonth": 2097,
     "timeYear": 2081,
     "dailyMinutesDown": {}
@@ -552,7 +552,7 @@
     "uptimeYear": "100.00%",
     "time": 957,
     "timeDay": 875,
-    "timeWeek": 916,
+    "timeWeek": 849,
     "timeMonth": 842,
     "timeYear": 957,
     "dailyMinutesDown": {}
@@ -742,7 +742,7 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-sitka-bo-l5min-download-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -750,7 +750,7 @@
     "uptimeYear": "100.00%",
     "time": 2073,
     "timeDay": 2081,
-    "timeWeek": 2063,
+    "timeWeek": 2061,
     "timeMonth": 2093,
     "timeYear": 2073,
     "dailyMinutesDown": {}
@@ -767,9 +767,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 940,
-    "timeDay": 1082,
-    "timeWeek": 870,
-    "timeMonth": 832,
+    "timeDay": 760,
+    "timeWeek": 809,
+    "timeMonth": 820,
     "timeYear": 940,
     "dailyMinutesDown": {}
   },
