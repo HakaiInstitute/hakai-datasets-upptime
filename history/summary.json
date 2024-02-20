@@ -760,17 +760,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.htmlTable?time&time>=now-1day",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-sitka-bo-l5min-real-time-now-1day",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 2049,
-    "timeWeek": 923,
-    "timeMonth": 842,
-    "timeYear": 941,
+    "time": 940,
+    "timeDay": 1106,
+    "timeWeek": 880,
+    "timeMonth": 835,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -912,7 +912,7 @@
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 19,
-    "timeWeek": 949,
+    "timeWeek": 76,
     "timeMonth": 302,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -930,7 +930,7 @@
     "uptimeYear": "100.00%",
     "time": 2070,
     "timeDay": 2008,
-    "timeWeek": 3887,
+    "timeWeek": 2026,
     "timeMonth": 2495,
     "timeYear": 2070,
     "dailyMinutesDown": {}
@@ -948,7 +948,7 @@
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 57,
-    "timeWeek": 3001,
+    "timeWeek": 131,
     "timeMonth": 860,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -966,7 +966,7 @@
     "uptimeYear": "100.00%",
     "time": 2126,
     "timeDay": 2052,
-    "timeWeek": 3038,
+    "timeWeek": 2067,
     "timeMonth": 2291,
     "timeYear": 2126,
     "dailyMinutesDown": {}
@@ -984,7 +984,7 @@
     "uptimeYear": "100.00%",
     "time": 967,
     "timeDay": 741,
-    "timeWeek": 921,
+    "timeWeek": 866,
     "timeMonth": 848,
     "timeYear": 967,
     "dailyMinutesDown": {}
