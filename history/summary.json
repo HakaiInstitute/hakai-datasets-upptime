@@ -94,17 +94,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-provisional-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5067,
-    "timeDay": 2387,
-    "timeWeek": 3302,
-    "timeMonth": 10600,
-    "timeYear": 5067,
+    "time": 5092,
+    "timeDay": 6980,
+    "timeWeek": 4158,
+    "timeMonth": 10672,
+    "timeYear": 5092,
     "dailyMinutesDown": {}
   },
   {
@@ -283,7 +283,7 @@
     "time": 2409,
     "timeDay": 2085,
     "timeWeek": 2822,
-    "timeMonth": 2545,
+    "timeMonth": 2551,
     "timeYear": 2409,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4852,
     "timeDay": 5127,
     "timeWeek": 4887,
-    "timeMonth": 5099,
+    "timeMonth": 5084,
     "timeYear": 4852,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 2081,
     "timeDay": 2160,
     "timeWeek": 2085,
-    "timeMonth": 2100,
+    "timeMonth": 2101,
     "timeYear": 2081,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 951,
     "timeDay": 769,
     "timeWeek": 799,
-    "timeMonth": 838,
+    "timeMonth": 847,
     "timeYear": 951,
     "dailyMinutesDown": {}
   },
@@ -589,7 +589,7 @@
     "time": 2092,
     "timeDay": 2079,
     "timeWeek": 2071,
-    "timeMonth": 2114,
+    "timeMonth": 2115,
     "timeYear": 2092,
     "dailyMinutesDown": {}
   },
@@ -751,7 +751,7 @@
     "time": 2073,
     "timeDay": 2085,
     "timeWeek": 2063,
-    "timeMonth": 2101,
+    "timeMonth": 2102,
     "timeYear": 2073,
     "dailyMinutesDown": {}
   },
@@ -769,7 +769,7 @@
     "time": 937,
     "timeDay": 836,
     "timeWeek": 841,
-    "timeMonth": 848,
+    "timeMonth": 857,
     "timeYear": 937,
     "dailyMinutesDown": {}
   },
@@ -823,7 +823,7 @@
     "time": 887,
     "timeDay": 762,
     "timeWeek": 791,
-    "timeMonth": 799,
+    "timeMonth": 807,
     "timeYear": 887,
     "dailyMinutesDown": {}
   },
@@ -967,7 +967,7 @@
     "time": 2123,
     "timeDay": 2065,
     "timeWeek": 2059,
-    "timeMonth": 2290,
+    "timeMonth": 2293,
     "timeYear": 2123,
     "dailyMinutesDown": {}
   },
@@ -985,7 +985,7 @@
     "time": 958,
     "timeDay": 767,
     "timeWeek": 790,
-    "timeMonth": 803,
+    "timeMonth": 811,
     "timeYear": 958,
     "dailyMinutesDown": {}
   }
