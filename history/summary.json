@@ -94,17 +94,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-provisional-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5080,
-    "timeDay": 6959,
-    "timeWeek": 4157,
-    "timeMonth": 10561,
-    "timeYear": 5080,
+    "time": 5085,
+    "timeDay": 4151,
+    "timeWeek": 4382,
+    "timeMonth": 10525,
+    "timeYear": 5085,
     "dailyMinutesDown": {}
   },
   {
@@ -130,17 +130,17 @@
     "url": "https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileResearch.htmlTable?&time>now-1minute",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "catalogue-hakai-org-hakai-water-properties-instrument-profile-research-download-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5948,
-    "timeDay": 2335,
-    "timeWeek": 4955,
-    "timeMonth": 12536,
-    "timeYear": 5948,
+    "time": 5963,
+    "timeDay": 7581,
+    "timeWeek": 5530,
+    "timeMonth": 12539,
+    "timeYear": 5963,
     "dailyMinutesDown": {}
   },
   {
@@ -283,7 +283,7 @@
     "time": 2408,
     "timeDay": 2068,
     "timeWeek": 2825,
-    "timeMonth": 2545,
+    "timeMonth": 2550,
     "timeYear": 2408,
     "dailyMinutesDown": {}
   },
@@ -445,7 +445,7 @@
     "time": 4853,
     "timeDay": 5114,
     "timeWeek": 4939,
-    "timeMonth": 5111,
+    "timeMonth": 5097,
     "timeYear": 4853,
     "dailyMinutesDown": {}
   },
@@ -535,7 +535,7 @@
     "time": 2081,
     "timeDay": 2037,
     "timeWeek": 2084,
-    "timeMonth": 2099,
+    "timeMonth": 2100,
     "timeYear": 2081,
     "dailyMinutesDown": {}
   },
@@ -553,7 +553,7 @@
     "time": 950,
     "timeDay": 712,
     "timeWeek": 798,
-    "timeMonth": 836,
+    "timeMonth": 844,
     "timeYear": 950,
     "dailyMinutesDown": {}
   },
@@ -751,7 +751,7 @@
     "time": 2073,
     "timeDay": 2048,
     "timeWeek": 2060,
-    "timeMonth": 2100,
+    "timeMonth": 2101,
     "timeYear": 2073,
     "dailyMinutesDown": {}
   },
@@ -769,7 +769,7 @@
     "time": 936,
     "timeDay": 716,
     "timeWeek": 765,
-    "timeMonth": 845,
+    "timeMonth": 853,
     "timeYear": 936,
     "dailyMinutesDown": {}
   },
@@ -823,7 +823,7 @@
     "time": 886,
     "timeDay": 735,
     "timeWeek": 783,
-    "timeMonth": 797,
+    "timeMonth": 805,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -967,7 +967,7 @@
     "time": 2122,
     "timeDay": 2054,
     "timeWeek": 2059,
-    "timeMonth": 2290,
+    "timeMonth": 2293,
     "timeYear": 2122,
     "dailyMinutesDown": {}
   },
@@ -985,7 +985,7 @@
     "time": 956,
     "timeDay": 739,
     "timeWeek": 790,
-    "timeMonth": 802,
+    "timeMonth": 810,
     "timeYear": 956,
     "dailyMinutesDown": {}
   }
