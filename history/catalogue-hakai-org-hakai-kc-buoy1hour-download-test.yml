@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiKCBuoy1hour.htmlTable?&time>now-1minute
-status: down
-code: 500
-responseTime: 2048
-lastUpdated: 2024-02-27T13:41:09.199Z
+status: up
+code: 404
+responseTime: 2055
+lastUpdated: 2024-02-27T14:18:04.748Z
 startTime: 2023-04-27T21:12:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
