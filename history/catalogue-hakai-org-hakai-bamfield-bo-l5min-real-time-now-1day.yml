@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.htmlTable?time&time>=now-1day
-status: up
-code: 200
-responseTime: 50
-lastUpdated: 2024-02-29T23:07:32.019Z
+status: down
+code: 500
+responseTime: 2046
+lastUpdated: 2024-03-01T13:33:32.125Z
 startTime: 2023-10-21T00:12:38.408Z
 generator: Upptime <https://github.com/upptime/upptime>
