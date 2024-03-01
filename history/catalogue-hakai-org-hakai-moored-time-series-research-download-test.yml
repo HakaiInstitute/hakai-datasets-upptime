@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiMooredTimeSeriesResearch.htmlTable?&time>now-1minute
-status: down
-code: 503
-responseTime: 5226
-lastUpdated: 2024-03-01T00:20:26.567Z
+status: up
+code: 404
+responseTime: 2028
+lastUpdated: 2024-03-01T00:37:48.602Z
 startTime: 2023-04-27T21:11:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
