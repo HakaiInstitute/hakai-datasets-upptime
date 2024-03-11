@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.htmlTable?time&time>=now-1day
-status: down
-code: 503
-responseTime: 16632
-lastUpdated: 2024-03-11T18:28:51.133Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2024-03-11T18:39:57.704Z
 startTime: 2023-04-27T21:12:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
