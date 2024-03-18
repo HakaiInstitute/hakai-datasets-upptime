@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/erddap/tabledap/HakaiQuadraBoLResearch.html
-status: up
-code: 200
-responseTime: 9
-lastUpdated: 2024-03-18T13:47:37.042Z
+status: down
+code: 503
+responseTime: 6863
+lastUpdated: 2024-03-18T15:27:12.451Z
 startTime: 2023-04-27T21:11:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
